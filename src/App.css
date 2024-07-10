@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Janna LT';
+    src: local('Janna LT'),
+    url("./fonts/Janna LT Regular.ttf");
+}
+*{
+    font-family:Janna LT !important;
+
+}
+@media only screen and (max-width: 600px) {
+
+    p {
+        font-size: 10px;
+    }
+
+}
